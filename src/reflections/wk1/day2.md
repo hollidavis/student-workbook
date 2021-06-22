@@ -1,6 +1,6 @@
 # Day 2 | Review of HTML/CSS
 
-### [Afternoon Code](link)
+### [Afternoon Code](https://github.com/hollidavis/coolsite)
 
 **What is a Pseudo-Class and what are some of the most common ones you think you will use?**
 
