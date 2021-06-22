@@ -10,6 +10,6 @@ Today was the first day of the program. As a class we focused on reviewing the c
 
 + 
 
-**What is the difference between Git and GitHub**
+**What is the difference between Git and GitHub?**
 
 + 
