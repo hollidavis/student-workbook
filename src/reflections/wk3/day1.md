@@ -1,4 +1,4 @@
-# Day 0 | Title
+# Day 1 | Title
 
 ### [Afternoon Code](link)
 
