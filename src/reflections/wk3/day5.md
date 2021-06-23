@@ -1,7 +1,7 @@
 # Day 5 | Title
 
-### [Afternoon Code](link)
+## Checkpoint
++ [Project](link)
 
-**Question**
-
-+ 
+## Weekly Reflection:
++

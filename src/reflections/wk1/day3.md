@@ -1,6 +1,10 @@
 # Day 3 | Building with Bootstrap
 
-### [Afternoon Code](link)
+## Afternoon Code:
+ + [Smile Challenge](https://github.com/hollidavis/smile-challenge)
+  + [Two Grid Tricks](https://github.com/hollidavis/two-grid-tricks)
+
+## Daily Journal:
 
 **What is your favorite tip that you think is the most beneficial to improving your design?**
 
