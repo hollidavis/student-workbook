@@ -1,4 +1,4 @@
-# Day 5 | Title
+# Day 5 | End of Week 7
 
 ## Checkpoint
 + [Project](link)

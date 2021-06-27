@@ -1,18 +1,18 @@
-# Day 4 | Title
+# Day 4 | Timeouts, Intervals, and Local Storage
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the benefits of making a plan before starting to just write the code?**
 
 + 
 
-**Question**
+**How do you find answers when you are stuck?**
 
 + 
 
-**Question**
+**From the entire article what are your biggest takeaways?**
 
 + 

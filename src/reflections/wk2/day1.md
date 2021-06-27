@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Intro to Javascript
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is Scope?**
 
 + 
 
-**Question**
+**What is Hoisting?**
 
 + 
 
-**Question**
+**In what cases might you use let vs const vs var?**
 
 + 

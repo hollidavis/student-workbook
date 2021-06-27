@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | Javascript Functions, Objects, and Loops
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?**
 
 + 
 
-**Question**
+**What is the difference between Parameters and Arguments?**
 
 + 
 
-**Question**
+**What are higher order functions? Can you provide an example?**
 
 + 
