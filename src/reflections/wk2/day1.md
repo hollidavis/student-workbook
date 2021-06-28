@@ -7,7 +7,7 @@
 
 **What is Scope?**
 
-+ Scope is the area that a variable is available for use.
++ Scope is the area that a variable is able to use.
 
 **What is Hoisting?**
 
@@ -15,4 +15,6 @@
 
 **In what cases might you use let vs const vs var?**
 
-+ 
++ Var declares a varible with global scope
++ Let declares a variable with a local scope
++ Const declares a variable with a local scope, however it's value cannot be changed after declaration.
