@@ -1,7 +1,7 @@
 # Day 3 | Interacting with DOM and Events
 
 ## Afternoon Code
-+ [Project](link)
++ [Rock, Paper, Scissors](https://github.com/hollidavis/RockPaperScissors)
 
 ## Daily Journal:
 

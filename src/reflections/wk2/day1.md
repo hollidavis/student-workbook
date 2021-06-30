@@ -1,7 +1,7 @@
 # Day 1 | Intro to Javascript
 
 ## Afternoon Code
-+ [JavaScript Basics Testing](https://github.com/hollidavis/js-tests-basics)
++ [JavaScript Basics Challenges](https://github.com/hollidavis/js-tests-basics)
 
 ## Daily Journal:
 

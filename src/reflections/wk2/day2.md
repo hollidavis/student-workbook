@@ -1,7 +1,7 @@
 # Day 2 | Javascript Functions, Objects, and Loops
 
 ## Afternoon Code
-+ [Project](link)
++ [JavaScript Loops & Arrays Challenges](https://github.com/hollidavis/js-tests-loops-and-arrays)
 
 ## Daily Journal:
 
