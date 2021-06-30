@@ -15,6 +15,6 @@
 
 **In what cases might you use let vs const vs var?**
 
-+ Var declares a varible with global scope
++ Var declares a variable with global scope
 + Let declares a variable with a local scope
 + Const declares a variable with a local scope, however it's value cannot be changed after declaration.
