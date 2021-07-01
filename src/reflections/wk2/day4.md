@@ -1,7 +1,7 @@
 # Day 4 | Timeouts, Intervals, and Local Storage
 
 ## Afternoon Code
-+ [Project](link)
++ [Slap Game](https://github.com/hollidavis/SlapGame)
 
 ## Daily Journal:
 
