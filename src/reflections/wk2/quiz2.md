@@ -36,13 +36,13 @@ let them = { name:"Them", hair: false, friends: [] }
 How would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+Examples of conditional statements are if/else statements and switches. 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -51,26 +51,35 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+That section of the for loop is called an final-expression. To increase i I would add "i++" to increment the variable each loop.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+DOM stands for Document Object Model. The file first accessed when rendering the DOM is the index.html
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+- Undefined
+- Boolean
+- Number
+- String
+- BigInt
+- Symbol
+- Object
+- Function
+- Null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
+The difference between a parameter and an argument is that parameters are what you tell the function to expect to receive while arguments are the actual values it receives when run.
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+Primitive values are data that are stored on the stack. Reference values are objects that are stored in the heap. 
 ```
