@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Javascript Classes
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What problem does using exports solve?**
 
 + 
 
-**Question**
+**How does export differ from export default?**
 
 + 
 
-**Question**
+**What is a benefit of using the Module System?**
 
 + 

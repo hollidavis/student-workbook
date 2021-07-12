@@ -1,18 +1,18 @@
-# Day 3 | Title
+# Day 3 | Forms and Templates
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the two common operations that we will set in the handler?**
 
 + 
 
-**Question**
+**What do you have to make sure you are doing with every Get to insure the value does not become undefined?**
 
 + 
 
-**Question**
+**What are some of the benefits of the proxy object that we are using in our structure for applications?**
 
 + 

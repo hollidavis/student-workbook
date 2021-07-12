@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | Encapsulation
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is the purpose of encapsulation?**
 
 + 
 
-**Question**
+**What were some of the problems with closures and the underscore prefix?**
 
 + 
 
-**Question**
+**How do we create private variables in a ES6 Class? Why would you do this?**
 
 + 

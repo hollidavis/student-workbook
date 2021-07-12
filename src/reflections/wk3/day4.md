@@ -1,18 +1,18 @@
-# Day 4 | Title
+# Day 4 | Working with MVC with Complex Data, Array Methods
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What problems does the Observer Pattern seek to solve?**
 
 + 
 
-**Question**
+**What are the three mechanisms of the observer pattern?**
 
 + 
 
-**Question**
+**Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.**
 
 + 
