@@ -1,7 +1,7 @@
 # Day 1 | Javascript Classes
 
 ## Afternoon Code
-+ [Project](link)
++ [Fantasy Zoo](https://github.com/hollidavis/fantasy-zoo)
 
 ## Daily Journal:
 
@@ -15,4 +15,4 @@
 
 **What is a benefit of using the Module System?**
 
-+ 
++ Code can be split into smaller files of self-contained functionality.
