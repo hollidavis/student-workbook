@@ -1,7 +1,7 @@
 # Day 2 | Encapsulation
 
 ## Afternoon Code
-+ [Project](link)
++ [Vendr](https://github.com/hollidavis/Vendr)
 
 ## Daily Journal:
 
