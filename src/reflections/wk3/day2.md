@@ -7,7 +7,7 @@
 
 **What is the purpose of encapsulation?**
 
-+ 
++ Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized access to them.
 
 **What were some of the problems with closures and the underscore prefix?**
 
