@@ -1,7 +1,7 @@
 # Day 3 | Forms and Templates
 
 ## Afternoon Code
-+ [Project](link)
++ [Gregslist](https://github.com/hollidavis/gregslist-mvc)
 
 ## Daily Journal:
 
