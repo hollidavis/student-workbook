@@ -1,7 +1,7 @@
 # Day 4 | Working with MVC with Complex Data, Array Methods
 
 ## Afternoon Code
-+ [Project](link)
++ [Master Garden Shop](https://github.com/ShereneC/MasterGardenShop)
 
 ## Daily Journal:
 
