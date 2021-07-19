@@ -1,7 +1,7 @@
 # Day 1 | Intro to Asynchronous Code
 
 ## Afternoon Code
-+ [Project](link)
++ [Mythology Trivia Game](https://github.com/hollidavis/TriviaGame)
 
 ## Daily Journal:
 
