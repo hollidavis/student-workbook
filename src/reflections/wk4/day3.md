@@ -1,18 +1,18 @@
-# Day 3 | Title
+# Day 3 | Working with Multiple Api's
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is the purpose of Async/Await?**
 
 + 
 
-**Question**
+**What must you do in order to await a promise inside of a function?**
 
 + 
 
-**Question**
+**What are some of the primary benefits of Async/Await?**
 
 + 

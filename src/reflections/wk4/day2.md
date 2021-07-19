@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | HTTP Requests Continued
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the three states of a Promise?**
 
 + 
 
-**Question**
+**How do promises seek to resolve the issues of "callback hell"?**
 
 + 
 
-**Question**
+**What is the difference between .then() and .catch()?**
 
 + 

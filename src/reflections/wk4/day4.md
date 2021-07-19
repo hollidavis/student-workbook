@@ -1,18 +1,18 @@
-# Day 4 | Title
+# Day 4 | Audio/Video Tags and Review
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What does REST stand for, and in simple terms what does it mean?**
 
 + 
 
-**Question**
+**What does Stateless mean?**
 
 + 
 
-**Question**
+**What URL pattern is used when writing a RESTful API?**
 
 + 

@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Intro to Asynchronous Code
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are some of the signs and causes of Callback Hell?**
 
 + 
 
-**Question**
+**What does the asynchronous mean and how are callbacks involved?**
 
 + 
 
-**Question**
+**Summarize the 3 ways to avoid / fix Callback Hell**
 
 + 
