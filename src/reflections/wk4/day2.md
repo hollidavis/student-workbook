@@ -1,7 +1,7 @@
 # Day 2 | HTTP Requests Continued
 
 ## Afternoon Code
-+ [Project](link)
++ [Gregslist with API](https://github.com/hollidavis/gregslist-mvc/tree/SandboxAPI)
 
 ## Daily Journal:
 

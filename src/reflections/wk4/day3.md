@@ -1,7 +1,7 @@
 # Day 3 | Working with Multiple Api's
 
 ## Afternoon Code
-+ [Project](link)
++ [Pokedex](https://github.com/hollidavis/Pokedex)
 
 ## Daily Journal:
 
