@@ -1,7 +1,7 @@
 # Day 4 | Audio/Video Tags and Review
 
 ## Afternoon Code
-+ [Project](link)
++ [Music is Fun](https://github.com/hollidavis/Music-Is-Fun)
 
 ## Daily Journal:
 
