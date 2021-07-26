@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | Using An ORM to interact with a Database
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the three types of relationships?**
 
 + 
 
-**Question**
+**What are the benefits of the traditional linking of relationships instead of Embedding?**
 
 + 
 
-**Question**
+**What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?**
 
 + 

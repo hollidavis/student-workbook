@@ -1,18 +1,18 @@
-# Day 3 | Title
+# Day 3 | Relationships
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**In simple terms what is a sub-document?**
 
 + 
 
-**Question**
+**When might you use a sub-document?**
 
 + 
 
-**Question**
+**How do you add to a collection of sub-documents? What about editing them?**
 
 + 

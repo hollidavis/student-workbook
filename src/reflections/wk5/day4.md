@@ -1,18 +1,18 @@
-# Day 4 | Title
+# Day 4 | Auth
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is a virtual property?**
 
 + 
 
-**Question**
+**When might you use a virtual property?**
 
 + 
 
-**Question**
+**How do you search by a virtual properties value?**
 
 + 
