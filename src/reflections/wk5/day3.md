@@ -1,7 +1,7 @@
 # Day 3 | Relationships
 
 ## Afternoon Code
-+ [Project](link)
++ [Planet Relationships](https://github.com/hollidavis/planet-relationships)
 
 ## Daily Journal:
 

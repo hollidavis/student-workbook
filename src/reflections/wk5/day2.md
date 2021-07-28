@@ -1,7 +1,7 @@
 # Day 2 | Using An ORM to interact with a Database
 
 ## Afternoon Code
-+ [Project](link)
++ [Gregslist - Node](https://github.com/hollidavis/gregslist-node)
 
 ## Daily Journal:
 
