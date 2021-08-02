@@ -1,18 +1,18 @@
-# Day 4 | Title
+# Day 4 | Using AUTH0 in VueJS ane Revue Advanced Frontend Frameworks
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is a nested route?**
 
 + 
 
-**Question**
+**When might you use a nested route? (other than the provided example)**
 
 + 
 
-**Question**
+**Can you pass parameters through nested routes? When might you use them?**
 
 + 

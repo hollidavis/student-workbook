@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Introduction to VueJs
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is Component based architecture?**
 
 + 
 
-**Question**
+**What are some benefits of Component based architecture?**
 
 + 
 
-**Question**
+**What are some drawbacks to Component based architecture?**
 
 + 

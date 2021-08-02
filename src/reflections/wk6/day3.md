@@ -1,18 +1,18 @@
-# Day 3 | Title
+# Day 3 | Simulating Multiple Pages with the Vue Router
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are lifecycle hooks? What are lifecycle hooks used for?**
 
 + 
 
-**Question**
+**How have you utilized lifecycle hooks in your afternoon projects?**
 
 + 
 
-**Question**
+**What are mounting hooks? When might you use them?**
 
 + 

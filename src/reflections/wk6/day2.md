@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | Vue Component Architecture
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are props?**
 
 + 
 
-**Question**
+**What are props used for?**
 
 + 
 
-**Question**
+**Where can props be used or accessed?**
 
 + 
