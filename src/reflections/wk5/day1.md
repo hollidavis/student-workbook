@@ -15,4 +15,4 @@
 
 **When do you think Query parameters would be helpful when writing your server?**
 
-+
++ Query parameters would be helpful when you need to single out specific pieces of data. This can be used when searching.
