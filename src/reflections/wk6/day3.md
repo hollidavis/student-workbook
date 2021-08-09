@@ -1,7 +1,7 @@
 # Day 3 | Simulating Multiple Pages with the Vue Router
 
 ## Afternoon Code
-+ [Project](link)
++ [Gregslist - Vue](https://github.com/hollidavis/gregslist-vue)
 
 ## Daily Journal:
 
