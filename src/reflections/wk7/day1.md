@@ -1,18 +1,15 @@
-# Day 1 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 1 | Partner Checkpoint
 
 ## Daily Journal:
 
-**Question**
+**What is Pair Programming? What are the roles and how do they work?**
 
 + 
 
-**Question**
+**What are some benefits of Pair Programming?**
 
 + 
 
-**Question**
+**What are some drawbacks to Pair Programming?**
 
 + 

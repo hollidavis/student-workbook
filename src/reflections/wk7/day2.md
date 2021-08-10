@@ -1,18 +1,15 @@
-# Day 2 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 2 | Partner Checkpoint Cont.
 
 ## Daily Journal:
 
-**Question**
+**What is Code Documentation? What are some of the ways to document code?**
 
 + 
 
-**Question**
+**What are some benefits of Code Documentation?**
 
 + 
 
-**Question**
+**How important is Code documentation and why?**
 
 + 
