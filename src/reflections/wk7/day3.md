@@ -1,18 +1,15 @@
-# Day 3 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 3 | Partner Checkpoint Cont.
 
 ## Daily Journal:
 
-**Question**
+**What is a User Experience? What should be considered when developing a User Experience?**
 
 + 
 
-**Question**
+**What are some benefits of taking into account the User Experience?**
 
 + 
 
-**Question**
+**Why is the User Experience important?**
 
 + 

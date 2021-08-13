@@ -1,18 +1,15 @@
-# Day 4 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 4 | Partner Checkpoint Cont.
 
 ## Daily Journal:
 
-**Question**
+**Which principles from this weeks reading did you implement?**
 
 + 
 
-**Question**
+**What went well?**
 
 + 
 
-**Question**
+**What would you do differently?**
 
 + 
