@@ -1,18 +1,15 @@
-# Day 3 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 3 | Capstones
 
 ## Daily Journal:
 
-**Question**
+**What is Software Development Testing?**
 
 + 
 
-**Question**
+**What are the benefits of Testing in software development?**
 
 + 
 
-**Question**
+**What are some potential drawbacks of Testing in software development?**
 
 + 

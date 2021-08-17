@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Checkpoint Work Day
 
 ## Afternoon Code
-+ [Project](link)
++ [BugLog](https://github.com/hollidavis/BugLog)
 
 ## Daily Journal:
 
-**Question**
+**What function does a developer Portfolio provide?**
 
 + 
 
-**Question**
+**What makes a Developer Portfolio effective?**
 
 + 
 
-**Question**
+**What projects do you have that you would include in your Portfolio? Why?**
 
 + 

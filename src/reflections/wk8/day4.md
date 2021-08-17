@@ -1,18 +1,15 @@
-# Day 4 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 4 | Capstone
 
 ## Daily Journal:
 
-**Question**
+**What are the three main types of testing we can accomplish in Vue? What does each method provide?**
 
 + 
 
-**Question**
+**What testing method do you think is the most useful? Why?**
 
 + 
 
-**Question**
+**What testing method do you think is the least useful? Why?**
 
 + 

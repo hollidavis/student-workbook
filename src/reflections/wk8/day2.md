@@ -1,18 +1,15 @@
-# Day 2 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 2 | Capstones
 
 ## Daily Journal:
 
-**Question**
+**Why is communication on a small team important?**
 
 + 
 
-**Question**
+**What adjustments from traditional sized scrum teams need to be made to use the agile methodology effectively in a small team?**
 
 + 
 
-**Question**
+**What is the unattainable triangle? What are the tradeoffs of each side?**
 
 + 
