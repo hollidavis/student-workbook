@@ -5,14 +5,14 @@
 
 ## Daily Journal:
 
-**Question**
+**What is a Github action and how do they work?**
 
 + 
 
-**Question**
+**What benefits do Github actions provide?**
 
 + 
 
-**Question**
+**What types of trigger actions can a workflow use? What do they do?**
 
 + 

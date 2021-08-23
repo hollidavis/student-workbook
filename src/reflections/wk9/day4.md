@@ -5,14 +5,14 @@
 
 ## Daily Journal:
 
-**Question**
+**What is an SSL certificate?**
 
 + 
 
-**Question**
+**What are the different types of certificates? What are they used for?**
 
 + 
 
-**Question**
+**What are some benefits of using SSL certificates?**
 
 + 

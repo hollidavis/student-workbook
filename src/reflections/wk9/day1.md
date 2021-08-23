@@ -5,14 +5,14 @@
 
 ## Daily Journal:
 
-**Question**
+**What technologies and principles are you using in your project?**
 
 + 
 
-**Question**
+**What went well so far?**
 
 + 
 
-**Question**
+**What would you do differently? Why?**
 
 + 
