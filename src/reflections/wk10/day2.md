@@ -1,18 +1,18 @@
-# Day 2 | Title
+# Day 2 | Introduction to Dotnet WebAPI's
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is a List in C#?**
 
 + 
 
-**Question**
+**What List methods seem like you might use them often? Why?**
 
 + 
 
-**Question**
+**How would you retrieve an item from a list? What method could you use?**
 
 + 

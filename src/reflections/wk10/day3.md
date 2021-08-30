@@ -1,18 +1,19 @@
-# Day 3 | Title
+# Day 3 | Connecting to A MySql Database
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**In a SQL table, what is the difference between information in a row and information in a column?**
 
 + 
 
-**Question**
+**Demonstrate the basic structure for creating a new table called characters with the values name, age, description as strings, and an int id.**
 
 + 
 
-**Question**
-
-+ 
+**What is the difference between the following statements:**
++ DELETE FROM table_name
++ DROP TABLE table_name
++

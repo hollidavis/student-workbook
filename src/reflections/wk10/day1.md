@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Introduction to C#
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What are the three categories of data types? How are they different?**
 
 + 
 
-**Question**
+**What are the Value-type data types? What differences do you notice from JavaScript?**
 
 + 
 
-**Question**
+**In your own words how do Reference types get stored in memory? How does this differ from Value types?**
 
 + 
