@@ -1,7 +1,4 @@
-# Day 3 | Title
-
-## Afternoon Code
-+ [Project](link)
+# Day 3 | Capstones
 
 ## Daily Journal:
 
