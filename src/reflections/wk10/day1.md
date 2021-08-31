@@ -1,7 +1,7 @@
 # Day 1 | Introduction to C#
 
 ## Afternoon Code
-+ [Project](link)
++ [Boulder, Parchment, Shears](https://github.com/hollidavis/rock-paper-scissors-csharp)
 
 ## Daily Journal:
 
