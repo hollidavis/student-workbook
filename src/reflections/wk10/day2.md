@@ -1,7 +1,7 @@
 # Day 2 | Introduction to Dotnet WebAPI's
 
 ## Afternoon Code
-+ [Project](link)
++ [Gregslist C#](https://github.com/hollidavis/gregslist-csharp)
 
 ## Daily Journal:
 

@@ -1,7 +1,4 @@
 # Day 5 | End of Week 10
 
 ## Checkpoint
-+ [Project](link)
-
-## Weekly Reflection:
-+
++ [Blogger Engine](https://github.com/hollidavis/BloggerEngine)

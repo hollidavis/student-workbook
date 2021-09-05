@@ -1,7 +1,7 @@
 # Day 3 | Connecting to A MySql Database
 
 ## Afternoon Code
-+ [Project](link)
++ [Knight's API](https://github.com/hollidavis/knightsapi)
 
 ## Daily Journal:
 
@@ -16,4 +16,3 @@
 **What is the difference between the following statements:**
 + DELETE FROM table_name
 + DROP TABLE table_name
-+

@@ -1,7 +1,7 @@
 # Day 4 | Building Relationships with MySQL & Auth0
 
 ## Afternoon Code
-+ [Project](link)
++ [Allspice](https://github.com/hollidavis/allspice)
 
 ## Daily Journal:
 
