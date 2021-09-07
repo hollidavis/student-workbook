@@ -1,18 +1,18 @@
-# Day 3 | Title
+# Day 3 | Auth0 With WebApi's
 
 ## Afternoon Code
 + [Project](link)
 
 ## Daily Journal:
 
-**Question**
+**What is SQL injection?**
 
 + 
 
-**Question**
+**What are 3 methods SQL injection can be done by?**
 
 + 
 
-**Question**
+**How can we detect and sanitize SQL injection attacks?**
 
 + 

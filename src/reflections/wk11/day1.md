@@ -1,18 +1,18 @@
-# Day 1 | Title
+# Day 1 | Labor Day
 
 ## Afternoon Code
-+ [Project](link)
++ No Class
 
 ## Daily Journal:
 
-**Question**
+**What does Inheritance accomplish for us in C#?**
 
 + 
 
-**Question**
+**How does Member inheritance work in C#? Does a class inherit all members of the base class?**
 
 + 
 
-**Question**
+**How does accessibility affect inheritance?**
 
 + 
