@@ -1,40 +1,14 @@
 # Day 2 | MySQL Relationships
 
 ## Afternoon Code
-+ [Project](link)
++ [Contracted](https://github.com/hollidavis/contracted)
 
 ## Daily Journal:
 
-**What is the difference between a primary key and a foreign key**
+**What is the difference between a primary key and a foreign key?**
 
-+ 
++ A primary key is used to ensure data in the specific column is unique. A foreign key is a column or group of columns in a relational database table that provides a link between data in two tables.
 
 **What is an Alias?**
 
-+ 
-
-**Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:**
-
-CREATE TABLE doctors (
-  id INT NOT NULL AUTO_INCREMENT,
-  -- CODE OMITTED
-  PRIMARY KEY (id)
-)
-
-CREATE TABLE patients (
-  id INT NOT NULL AUTO_INCREMENT,
-  -- CODE OMITTED
-  PRIMARY KEY (id)
-)
-
-CREATE TABLE doctors (
-  id INT NOT NULL AUTO_INCREMENT,
-  doctorId INT NOT NULL,
-  patientId INT NOT NULL,
-
-  FOREIGN KEY (doctorId)
-    REFERENCES doctors(id),
-  FOREIGN KEY (patientId)
-    REFERENCES patients(id),
-)
-+ Answer goes here
++ SQL aliases are used to give a table, or a column in a table, a temporary name. 
