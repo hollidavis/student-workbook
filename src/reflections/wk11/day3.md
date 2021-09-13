@@ -1,7 +1,8 @@
 # Day 3 | Auth0 With WebApi's
 
 ## Afternoon Code
-+ During the afternoon I spent time working on whiteboard problems and career homework with fellow students.
++ [Amazen](https://github.com/hollidavis/amazen)
++ During the afternoon I spent time working on whiteboard problems and career homework with fellow students so my code for Amazen isn't as complete as I would've liked. 
 
 ## Daily Journal:
 
